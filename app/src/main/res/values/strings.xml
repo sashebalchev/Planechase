@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PLANECHASE</string>
+    <string name="starting_mana_cost">0</string>
+</resources>
